@@ -1,7 +1,11 @@
 # Programacao-Orientada-a-Objetos
 Atividade do 3º Semestre do curso de Tecnologia em Análise e Desenvolvimento de Sistemas - FATEC São José dos Campos Prof. Jessen Vidal
 
+:books: Matéria - Programação Orientada à Objetos
 
+:man: Professor Dr. Eng. Gerson Penha.
+
+<h2> 📝 Atividade prática ATVI </h2>
 
 :bookmark_tabs: <a href="https://github.com/JulianaMaria-Lab/Programacao-Orientada-a-Objetos/blob/1db9061f63e08e8bd083180d41323616611fbbdb/atvi-wb.pdf"> Descrição da Atividade</a>
 
